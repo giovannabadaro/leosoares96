@@ -14,28 +14,10 @@ Com atuação desde o entendimento dos projetos, levantamento de requisitos, cri
 - **Técnico em Informática para Internet**, ETEC (2013 - 2014)
 
 ### Conhecimentos :books:
-#### Bancos de dados
-- Postgres;
-- MySQL;
-- SQL Server;
-- Noções em MongoDB
-
-#### Back-End
-- PHP;
-- nodeJS;
-
-#### Front-End;
-- Javascript;
-- Typescript
-- ReactJS;
-- HTML 5;
-- CSS 3
-
-#### Ciência e Análise de dados
-- Tableau Desktop
-- Alteryx
-- Pentaho data integration
-- Noções em Python
+- **Bancos de dados**: Postgres, MySQL, SQL Server e Noções em Oracle e MongoDB;
+- **Back-End**: PHP e NodeJS;
+- **Front-End**: Javascript, Typescript, ReactJS, HTML5, CSS3, SASS e noções em Angular;
+- **Ciência e Análise de dados**: Tableau Desktop, Alteryx, Pentaho data integration e noções em Python.
 
 ### Contatos :email:
 - E-mail: leo.soares64@outlook.com
